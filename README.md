@@ -296,25 +296,16 @@ If you have any questions, please write to [the issue][21] of making you don't u
 感谢[网易云音乐App](https://play.google.com/store/apps/details?id=com.netease.cloudmusic)提供参考，附上[《网易云音乐Android 3.0视觉设计规范文档》](http://www.25xt.com/appdesign/12385.html)。本人是网易云音乐的粉丝，使用了其中的部分素材，并非攻击，如构成侵权请及时通知我修改或删除。大部分数据来自于玩安卓、干货集中营和时光网，一切数据解释权都归张鸿洋、代码家和时光网所有。
  
 ## End
-> 注意：此开源项目仅做学习交流使用，如用到实际项目还需多考虑其他因素，请多多斟酌。如果你觉得不错，对你有帮助，欢迎点个star，follow，也可以帮忙分享给你更多的朋友，或给点赞赏，这是给我们最大的动力与支持。
+> 注意：此开源项目仅做学习交流使用，如用到实际项目还需多考虑其他因素，请多多斟酌。如果你觉得不错，对你有帮助，欢迎点个star，follow，也可以帮忙分享给你更多的朋友，这是给我们最大的动力与支持。
 > 
 > 捐赠后均会被记录到列表中，可以留下友情链接，起到一定的推广作用。感谢大家的信任，[捐赠列表](https://github.com/youlookwhat/CloudReader/blob/master/file/admire.md)。
 
-
-<img src="https://raw.githubusercontent.com/youlookwhat/CloudReader/master/file/Wechat-admire.jpg" width="250" height="250" /><img src="https://raw.githubusercontent.com/youlookwhat/CloudReader/master/file/alipay-admire.jpg" width="250" height="250"/>
-    
-<!--<center class="half">-->
-<!--</center>-->
-
-<!--![](https://raw.githubusercontent.com/youlookwhat/CloudReader/master/file/Wechat-admire.jpg)![](https://raw.githubusercontent.com/youlookwhat/CloudReader/master/file/alipay-admire.jpg)-->
-
-<!--<img width="200" height=“200” src="https://github.com/youlookwhat/CloudReader/blob/master/file/Wechat-admire.jpeg"></img><img width="200" height=“200” src="https://github.com/youlookwhat/CloudReader/blob/master/file/qq_code.JPG"></img>-->
 
 ## About me
  - **QQ：** 770413277
  - **Email：** jingbin127@163.com
  - **Blog：**[https://youlookwhat.github.io](https://youlookwhat.github.io)
- - **小红书：**[夜有所梦](https://www.xiaohongshu.com/user/profile/59ba28cf5e87e72d410d84c1?xhsshare=CopyLink&appuid=59ba28cf5e87e72d410d84c1&apptime=1733105575&share_id=78c3ca8970d24a3eb9db04b1e4fcc45b)
+ - **小红书：**[所思所梦](https://www.xiaohongshu.com/user/profile/59ba28cf5e87e72d410d84c1?xhsshare=CopyLink&appuid=59ba28cf5e87e72d410d84c1&apptime=1733105575&share_id=78c3ca8970d24a3eb9db04b1e4fcc45b)
  - **QQ交流群：**[![](https://img.shields.io/badge/%E7%BE%A4%E5%8F%B7-727379132-orange.svg?style=flat-square)](https://shang.qq.com/wpa/qunwpa?idkey=5685061359b0a767674cd831d8261d36b347bde04cc23746cb6570e09ee5c8aa)
 
 ## License
