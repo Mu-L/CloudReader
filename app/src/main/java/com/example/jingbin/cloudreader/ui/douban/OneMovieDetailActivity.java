@@ -123,24 +123,13 @@ public class OneMovieDetailActivity extends BaseHeaderActivity<HeaderSlideShapeB
      * 异步线程转换数据
      */
     private void transformData(final MovieDetailBean movieDetailBean) {
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                for (int i = 0; i < movieDetailBean.getDirectors().size(); i++) {
-                    movieDetailBean.getDirectors().get(i).setType("导演");
-                }
-                for (int i = 0; i < movieDetailBean.getCasts().size(); i++) {
-                    movieDetailBean.getCasts().get(i).setType("演员");
-                }
-
-                OneMovieDetailActivity.this.runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-                        setAdapter(movieDetailBean);
-                    }
-                });
-            }
-        }).start();
+        for (int i = 0; i < movieDetailBean.getDirectors().size(); i++) {
+            movieDetailBean.getDirectors().get(i).setType("导演");
+        }
+        for (int i = 0; i < movieDetailBean.getCasts().size(); i++) {
+            movieDetailBean.getCasts().get(i).setType("演员");
+        }
+        setAdapter(movieDetailBean);
     }
 
     /**
