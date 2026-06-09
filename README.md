@@ -4,8 +4,10 @@
 [![Apk][34]][35]
 [![Release Version][30]][31]
 [![API][3]][4]
-[![Codacy Badge][36]][37]
 
+<!--
+[![Codacy Badge][36]][37]
+-->
 
 > Kotlin && Netease cloud music Ui && Retrofit2 + RxJava2 + Room + MVVM-databinding && Wanandroid Api 
 
